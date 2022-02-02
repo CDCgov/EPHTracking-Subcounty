@@ -1,3 +1,19 @@
+  The Centers for Disease Control and Prevention’s  Environmental Public Health Tracking Program’s (Tracking Program) mission is to translate environmental and public health data into meaningful information that drives actions to improve community health. Part of fulfilling that mission is to provide data at varying geographic resolutions. Over the last several years, the Tracking Program has been developing and refining methodology to increase the availability and accessibility of sub-county data, or data at a geographic resolution finer than the county level. Sub-county data can help highlight more local variation in trends that county data cannot. Examining socioeconomic disparities at these finer geographic resolution can help guide resource allocation to set and evaluate health objectives (1).
+	 
+   For standard administrative geographies, census tracts are the next finer geography from counties. However, there are limitations to using census tracts for public health data. One limitation is data and statistical reliability issues when using small case (numerator) and population (denominator) numbers. A second limitation is confidentiality concerns, where the risk of identifying individuals with rare diseases could be possible through different methods. The Tracking Program’s solution to these limitations are geographies of aggregated census tracts to a specified minimum population level (2). The Tracking Program currently has two population minimums: 5,000 persons and 20,000 persons. For comparison, in 2010 the average county population in the US was 98,409. This GitHub will serve as a resource for technical information regarding the Tracking Program’s sub-county geographies including:
+* 	Sub-county Aggregation Methodology documents
+* 	Geographic crosswalk files to aggregate your census tract data
+* 	Shapefiles for mapping and visualizing your data
+* 	How-to Guides to format your data for optional submission to the Tracking Program
+* 	Data Dictionaries
+* 	Data validation and implementation code
+
+**References**
+1.	Werner AK, Strosnider HM, Kassinger C, Shin M. Lessons Learned From the Environmental Public Health Tracking Sub-County Data Pilot Project. Journal of Public Health Management and Practice. 2017.
+2.	Werner AK, Strosnider HM. Developing a surveillance system of sub-county data: Finding suitable population thresholds for geographic aggregations. Spatial and Spatio-temporal Epidemiology. 2020;33:100339.
+
+
+
 # CDCgov GitHub Organization Open Source Project Template
 
 **Template for clearance: This project serves as a template to aid projects in starting up and moving through clearance procedures. To start, create a new repository and implement the required [open practices](open_practices.md), train on and agree to adhere to the organization's [rules of behavior](rules_of_behavior.md), and [send a request through the create repo form](https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUNk43NzMwODJTRzA4NFpCUk1RRU83RTFNVi4u) using language from this template as a Guide.**
