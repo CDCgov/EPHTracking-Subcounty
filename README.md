@@ -1,4 +1,4 @@
-# CDC Environmental Public Health Tracking Program <img src="CDC_Tracking_Combined.jpg" align="left" height=140/>
+# CDC EPHT Program Subcounty Project <img src="CDC_Tracking_Combined.jpg" align="left" height=140/>
 
   The Centers for Disease Control and Prevention’s  Environmental Public Health Tracking Program’s (Tracking Program) mission is to translate environmental and public health data into meaningful information that drives actions to improve community health. Part of fulfilling that mission is to provide data at varying geographic resolutions. Over the last several years, the Tracking Program has been developing and refining methodology to increase the availability and accessibility of sub-county data, or data at a geographic resolution finer than the county level. Sub-county data can help highlight more local variation in trends that county data cannot. Examining socioeconomic disparities at these finer geographic resolution can help guide resource allocation to set and evaluate health objectives (1).
 	 
