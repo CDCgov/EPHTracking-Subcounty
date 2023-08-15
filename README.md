@@ -11,6 +11,7 @@ Visit the [EPHTracking](https://github.com/CDCgov/EPHTracking) main GitHub page 
 * 	How-to Guides to format your data for optional submission to the Tracking Program
 * 	Data Dictionaries
 * 	Data validation and implementation code
+* 	[CDC Tracking's Geocoding Rationale and Standards](https://github.com/CDCgov/EPHTracking/tree/master/Workgroup%20Projects/Guidance%20Documents)
 
 **References**
 1.	Werner AK, Strosnider HM, Kassinger C, Shin M. Lessons Learned From the Environmental Public Health Tracking Sub-County Data Pilot Project. Journal of Public Health Management and Practice. 2017.
