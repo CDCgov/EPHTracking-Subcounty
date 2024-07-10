@@ -14,8 +14,9 @@ Visit the [EPHTracking](https://github.com/CDCgov/EPHTracking) main GitHub page 
 * 	[CDC Tracking's Geocoding Rationale and Standards](https://github.com/CDCgov/EPHTracking/tree/master/Workgroup%20Projects/Guidance%20Documents)
 
 **References**
-1.	Werner AK, Strosnider HM, Kassinger C, Shin M. Lessons Learned From the Environmental Public Health Tracking Sub-County Data Pilot Project. Journal of Public Health Management and Practice. 2017.
+1.	Werner AK, Strosnider HM, Kassinger C, Shin M. Lessons learned from the Environmental Public Health Tracking Sub-County Data Pilot Project. Journal of Public Health Management and Practice. 2017.
 2.	Werner AK, Strosnider HM. Developing a surveillance system of sub-county data: Finding suitable population thresholds for geographic aggregations. Spatial and Spatio-temporal Epidemiology. 2020;33:100339.
+3.	Ellington TD, Werner AK, Henley SJ, Paddock LE, Agovino PK. Feasibility of visualizing cancer incidence data at sub-county level: Findings from 21 National Program of Cancer Registries. Spatial and Spatio-temporal Epidemiology. 2023;45:100564.
 
 **For questions about anything housed or referenced in this repository please contact ephtrackingsupport@cdc.gov.**
 
