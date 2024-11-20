@@ -17,8 +17,9 @@ Visit the [EPHTracking](https://github.com/CDCgov/EPHTracking) main GitHub page 
 1.	Werner AK, Strosnider HM, Kassinger C, Shin M. Lessons learned from the Environmental Public Health Tracking Sub-County Data Pilot Project. Journal of Public Health Management and Practice. 2017.
 2.	Werner AK, Strosnider HM. Developing a surveillance system of sub-county data: Finding suitable population thresholds for geographic aggregations. Spatial and Spatio-temporal Epidemiology. 2020;33:100339.
 3.	Ellington TD, Werner AK, Henley SJ, Paddock LE, Agovino PK. Feasibility of visualizing cancer incidence data at sub-county level: Findings from 21 National Program of Cancer Registries. Spatial and Spatio-temporal Epidemiology. 2023;45:100564.
+4.	Vinson, DA & Werner, AK. Examining select sociodemographic characteristics of sub-county geographies for public health surveillance. Population Health Metrics. 2024;22:29.
 
-**For questions about anything housed or referenced in this repository please contact ephtrackingsupport@cdc.gov.**
+**For questions about anything housed or referenced in this repository please contact trackingsupport@cdc.gov.**
 
 ## Related documents
 
